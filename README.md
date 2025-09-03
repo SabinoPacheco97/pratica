@@ -16,3 +16,4 @@ python testecovid.py
 O ficheiro owid-covid-data.csv deve estar no mesmo diretorio que o arquivo testecovid.py
 Quaisquer insights ou reflexões:
 O uso destas bibliotecas ajuda a gerar um maior resultado visual e interativo.
+Não pude carregar o arquivo owid-covid-data.csv por conta do tamanho.
