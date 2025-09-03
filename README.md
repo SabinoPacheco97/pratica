@@ -13,5 +13,6 @@ plotly
 Como executar/visualizar o projeto:
 Depois de importar as bibliotecas utilizadas, executa o seguinte comando no terminal:
 python testecovid.py
+O ficheiro owid-covid-data.csv deve estar no mesmo diretorio que o arquivo testecovid.py
 Quaisquer insights ou reflexões:
 O uso destas bibliotecas ajuda a gerar um maior resultado visual e interativo.
